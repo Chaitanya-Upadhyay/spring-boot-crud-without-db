@@ -1,5 +1,8 @@
 package com.spring.employee.springRestEmployee.entity;
 
+/**
+ * @Author Chaitanya Kumar
+ */
 public class Employee {
 
         private int id;
